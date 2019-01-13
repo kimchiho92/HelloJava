@@ -18,7 +18,7 @@ public class Swap {
 
 	public void sw1() {
 		int c= x;
-//		int b= y;=
+//		int b= y;= 
 		x=y;
 		y=c;
 	}
