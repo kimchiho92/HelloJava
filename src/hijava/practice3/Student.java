@@ -1,4 +1,4 @@
-package hijava.pratice3;
+package hijava.practice3;
 
 public class Student {
 	private String studentNumber;

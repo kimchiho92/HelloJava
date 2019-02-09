@@ -1,4 +1,4 @@
-package hijava.pratice3;
+package hijava.practice3;
 
 public class School {
 	public static void main(String[]args) {
