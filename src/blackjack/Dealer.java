@@ -11,4 +11,4 @@ public class Dealer extends Player {
 	     Player.printCard(dealerScore, dealerCard); 
 	     Player.getCard(dealerScore, dealerCard); 
 	    } 
-}
+} 

@@ -9,4 +9,4 @@ public class PrintMessage {
     public final static int YES = 1; 
     public final static int NO = 2; 
      
-}
+} 

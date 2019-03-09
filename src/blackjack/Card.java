@@ -10,9 +10,9 @@ public class Card extends CardDeck{
 	   this.shape = shape; 
 	    this.content = content; 
 	   } 
+	   
 	  
-	  
-	   @Override 
+	   @Override  
 	   public String toString() { 
 	    return String.format("%s\t%s", shape, content); // 카드 출력 
 	   } 

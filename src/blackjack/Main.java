@@ -11,7 +11,7 @@ public class Main {
 	   
 	    CardDeck.makeCard(); // 카드 52장 생성 
 	     
-	    int startNum= 2;
+	    int startNum= 2;  
 	   for (int i=0; i< startNum; i++) { // 카드 1장씩 게이머와 딜러에게 번갈아 2번 줌 
 	     Gamer.gamerCard.add((Card)CardDeck.extCard()); 
 	     Dealer.dealerCard.add((Card)CardDeck.extCard()); 

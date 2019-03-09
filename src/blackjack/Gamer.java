@@ -11,6 +11,7 @@ public class Gamer extends Player {
      Player.printCard(gamerScore, gamerCard); 
 
      Player.getCard(gamerScore, gamerCard);
-
+ 
 }
 }
+ 

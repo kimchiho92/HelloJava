@@ -9,12 +9,12 @@ public class Player {
 		do {
 			System.out.print(PrintMessage.ADDCARD);
 
-			Main.inpNum = Main.scan.nextInt();
+	 		Main.inpNum = Main.scan.nextInt();
 
 			if (Main.inpNum == PrintMessage.YES) {
 				playerCard.add((Card) CardDeck.extCard());
 				a = printCard(playerScore, playerCard);
-
+ 
 			} else if (Main.inpNum == PrintMessage.NO) {
 				break;
 
